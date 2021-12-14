@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @RoyaxzEU
-- 👀 I’m interested in IT,Networking,Cybersecurity,hacking
-- 🌱 I’m currently learning IT expert (education) and kali linux pentesting
-- 💞️ I’m looking to collaborate on   / 
-- 📫 How to reach me /
+- 👨‍🎓💻 IT, Security, EDR, Ethical Hacking
+- 💻 MBO 4 IT experts at Summa College
+- 📧 How to reach me / l.moermond@gmail.com
+- 📫 Linkedin https://www.linkedin.com/in/levano-moermond-999b70215
 
-<!---
-RoyaxzEU/RoyaxzEU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
