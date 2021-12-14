@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyaxzEU
+- 👋 Hi, I’m @RoyaxzEU Ethical Hacker / Pentester bij QTECO
 - 👨‍🎓💻 IT, Security, EDR, Ethical Hacking
 - 💻 MBO 4 IT experts at Summa College
 - 📧 How to reach me / l.moermond@gmail.com
